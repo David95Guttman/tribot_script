@@ -1,0 +1,162 @@
+Moving around : (2, 0)
+Follow the path to find the next instructor. Clicking on the ground will walk you to that point. You can also move around by clicking a point on the minimap in the top right corner. Talk to the survival expert to continue the tutorial.
+
+You've been given an item: (2, 1)
+To view the item you've been given, you'll need to open your inventory. To do so, click on the flashing backpack icon to the right hand side of your screen.
+
+Fishing: (2, 2)
+This is your inventory. You can view all of your items here, including the net you've just been given. Let's use it to catch some shrimp. To start fishing, just click on the sparkling fishing spot, indicated by the flashing arrow.
+
+You've gained some experience (2, 3)
+Click on the flashing bar graph icon near the inventory button to see your skills menu.
+
+Skills and Experience (2, 4)
+On this menu you can view your skills. Your skills can be leveled up by earning experience, which is gained by performing various activities. As you level up your skills, you will earn new unlocks. Speak to the survival expert to continue.
+
+Woodcutting (2, 5)
+It's time to cook your shrimp. However, you require a fire to do that which means you need some logs. You can cut down trees using your Woodcutting skill, all you need is an axe. Give it a go by clicking on one of the trees in the area.
+
+Firemaking (2, 6)
+Now that you have some logs, it's time to light a fire. First, click on the tinderbox in your inventory. Then, with the tinderbox highlighted, click on the logs to use the tinderbox on them.
+
+Cooking (2, 7)
+Now it's time to get cooking. To do so, click on the shrimp in your inventory. Then, with the shrimp highlighted, click on a fire to cook them. If you look at the top left of the screen, you'll see the instructions that you're giving to your character.
+
+Moving on (2, 8)
+Well done, you've just cooked your first meal! Speak to the survival expert if you want a recap, otherwise you can move on. Click on the gate shown and follow the path. Remember, you can use your arrow keys to rotate the camera.
+
+Moving on (3, 0)
+Follow the path until you get to the door with the yellow arrow above it. Click on the door to open it. Remember that you can also move around by clicking on the minimap in the top right.
+
+Cooking (3, 1)
+Talk to the chef indicated.  such as combining ingredients.He will teach you the more advanced aspects of Cooking
+
+Making dough (3, 2)
+This is the base for many meals. To make dough you must mix flour with water. To do so, click on the flour in your inventory. Then, with the flour highlighted, click on the water to combine them into dough.
+
+Cooking dough (3, 3)
+Now you have made the dough, you can bake it into some bread. To do so, just click on the indicated range.
+
+Moving on {3, 4}
+Well done! You've baked your first loaf of bread. As you gain experience in Cooking, you will be able to make other things like pies and cakes. You can now use the next door to move on. If you need a recap on anything, talk to the master chef.
+
+Fancy a run? {4, 0}
+When navigating the world, you can either run or walk. Running is faster but you can't run for long as you'll soon run out of energy. You can use the flashing orb next to the minimap to toggle running. Why not try it as you head to the next section
+
+Quests {4, 2}
+It's time to learn about quests! Just talk to the Quest Guide to get started.
+
+Quest journal {4, 3}
+Click on the flashing icon to the left of your inventory.
+
+Quest journal {4, 4}
+This is your quest journal. It lists every quest in the game. Talk to the quest guide again for an explanation on how it works.
+
+Moving on {4, 5}
+It's time to enter some caves. Click on the ladder to go down to the next area.
+
+Mining and Smithing {5, 0}
+Next let's get you a weapon, or more to the point, you can make your first weapon yourself. Don't panic, the mining instructor will help you. Talk to him and he'll tell you all about it.
+
+Mining {5, 2}
+It's quite simple really. To mine a rock, all you need to do is click on it. First up, try mining some tin.
+
+Mining {5, 3}
+Now that you have some tin ore, you just need some copper. To mine a rock, all you need to do is click on it.
+
+Smelting {5, 4}
+You now have some tin ore and some copper ore. You can smelt these into a bronze bar. To do so, just click on the indicated furnace. Try it now.
+
+Smelting {5, 5}
+You've made a bronze bar! Speak to the mining instructor and he'll show you how to make it into a weapon.
+
+Smithing a dagger {5, 6}
+To smith you'll need a hammer and enough metal bars to make the desired items, as well as a handy anvil. To start the process, click on the anvil, or alternatively use the bar on it.
+
+Moving on {5, 7}
+Congratulations, you've made your first weapon. Now it's time to move on. Go through the gates shown by the arrow. Remember, you may need to move the camera to see your surroundings. Speak to the mining instructor for a recap at any time.
+
+Combat {6, 0}
+In this area you will find out about melee and ranged combat. Speak to the guide and he will tell you all about it.
+
+Equipping items {6, 1}
+You now have access to a new interface. Click on the flashing icon of a man, the one to the right of your backpack icon.
+
+Equipment stats {6, 2}
+You're now holding your dagger. Clothes, armour, weapons and more are equipped like this.
+
+Unequpping items {6, 3}
+To unequip an item, go to your worn inventory and click on the item. Alternatively, equipping a new item into the same slot will unequip the old one. try this out now by swapping your dagger for the sword and shield that the combat instructor gave you
+
+Combat interface {6, 4}
+Click on the flashing crossed swords icon to open the combat interface.
+
+Combat interface {6, 5}
+This is your combat interface. From here, you can select the attack style that you'll use in combat.
+
+Attacking {6, 6}
+It's time to slay some rats! To attack a rat, all you have to do is click on it. This will cause you to walk over and start hitting it.
+
+Well done, you've made your first kill! {6, 7}
+Pass through the gate and talk to the combat instructor. He will give you your next task.
+
+Rat ranging {6, 9}
+Now you have a bow and some arrows. Before you cna use them you'll need to equip them. Once equipped with the ranging geat, try killing another rat. You don't need to enter the pen this time. To attack a rat, just click on it.
+
+Moving on {6, 11}
+You have completed the tasks here. To move on, click on the indicated ladder. If you need to go over any of what you learnt here, just talk to the combat instructor and he'll tell you what he can.
+
+Banking {7, 0}
+Follow the path and you will come to the front of the building. This is the Bank of Gielinor, where you can store all your most valued items. To open your bank, just click on the indicated booth.
+
+Banking {7, 2}
+This is your bank. You can store things here for safekeeping. To deposit something from your inventory, just click on it.
+
+Moving on {7, 3}
+Polls are run periodically to let the Old School RuneScape community vote on how the game should
+
+Account Management {8, 0}
+The guide here will tell all about your account. Just click on him to hear what he's got to say.
+
+Account Management {8, 1}
+Click on the flashing icon to open your Account Management menu.
+
+Account Management {8, 2}
+This is your Account Management menu where you can control various aspects of your account. Talk to the Account Guide to learn more.
+
+Moving on {8, 3}
+Continue through the next door.
+
+Prayer {9, 0}
+Follow the path to the chapel and enter it. Once inside talk to the monk. He'll tell you all about the Prayer skill.
+
+Prayer menu {9, 2}
+Click on the flashing icon to open the Prayer menu.
+
+Prayer menu {9, 3}
+Talk with Brother Brace and he'll tell you about prayers.
+
+Friends and Ignore list {9, 4}
+You should now see another new icon. Click on the flashing face icon to open your friends and ignore lists.
+
+Friends and Ignore list {9, 5}
+These two lists can be very helpful for keeping track of your friends or for blocking people you don't like. You can swap between the two ...
+
+Your final instructor! {9, 6}
+You're almost finished on tutorial island. Pass through the door to find the path leading to your final instructor.
+
+Your final instructor! {10, 0}
+Follow the path to the wizard's house, where you will be shown how to cast spells. When you get there, just talk with the magic instructor.
+
+Open up your final menu {10, 2}
+Open up the magic interface by clicking on the flashing icon.
+
+Magic {10,3}
+This your magic interface. All of your spells can be found here. The list is currently filtered to only show the spells you have the Magic level for. You can change this in the filter menu.
+
+Magic casting {10, 4}
+You now have some runes, All spells require runes to cast them. Look for the Wind Strike spell in your magic interface.
+
+To the mainland! {10, 5}
+You're nearly finished with the tutorial. All you need to do now is move on the mainland.
+
