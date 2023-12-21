@@ -25,7 +25,7 @@ public class HelloTask extends Task {
     };
 
     private static final String NOTICE_MESSAGE_1 = "This will display your settings menu";
-    private static final String NOTICE_MESSAGE_2 = "you can see a variety of game settings";
+    private static final String NOTICE_MESSAGE_2 = "you can now see a variety of game settings";
     private static final String SELECT_OPTION_EXPERIENCED = "I am an experienced player.";
 
     private boolean startGuide() {

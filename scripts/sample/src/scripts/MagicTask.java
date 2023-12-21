@@ -97,23 +97,6 @@ public class MagicTask extends Task {
         return false;
     }
 
-    private boolean talkThird() {
-        Tools.log("talk third");
-        for (int i = 0; i < 3; i ++) {
-            Waiting.waitNormal(2000, 10);
-            if (Tools.talkNpc(NPC_NAME_GUIDER)
-                    && Tools.continueChat(CHAT_MESSAGES_3)
-                    && Tools.selectOption(SELECT_OPTION_1)
-                    && Tools.continueChat(CHAT_MESSAGES_4)
-                    && Tools.selectOption(SELECT_OPTION_2)
-                    && Tools.continueChat(CHAT_MESSAGES_5)
-            ) {
-                return true;
-            }
-            Tools.error("cannot talk third");
-        }
-        return false;
-    }
     private boolean goMainLand() {
         Tools.log("go to main land");
         for (int i = 0; i < 3; i ++) {

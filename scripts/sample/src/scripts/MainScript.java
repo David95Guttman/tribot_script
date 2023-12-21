@@ -1,6 +1,7 @@
 package scripts;
 
 import org.jetbrains.annotations.NotNull;
+import org.tribot.script.sdk.Camera;
 import org.tribot.script.sdk.Login;
 import org.tribot.script.sdk.Waiting;
 import org.tribot.script.sdk.script.ScriptConfig;
@@ -34,7 +35,7 @@ public class MainScript implements TribotScript {
 			"He will teach you the more advanced aspects of Cooking",
 			"To make dough you must mix flour with water",
 			"you can bake it into some bread",
-			"{You've baked your first loaf of bread",
+			"You've baked your first loaf of bread",
 			// quest stage
 			"You can use the flashing orb next to the minimap",
 			"It's time to learn about quests",
@@ -48,6 +49,7 @@ public class MainScript implements TribotScript {
 			"You can smelt these into a bronze bar",
 			"You've made a bronze bar",
 			"To smith you'll need a hammer and enough metal bars",
+			"Use an anvil to open the smithing menu",
 			"Congratulations, you've made your first weapon",
 			// combat stage
 			"you will find out about melee and ranged combat",
@@ -57,15 +59,17 @@ public class MainScript implements TribotScript {
 			"Click on the flashing crossed swords icon to open the combat interface",
 			"you can select the attack style that you'll use in combat",
 			"It's time to slay some rats",
+			"You will continue to attack the rat until it's dead or you do something else",
 			"you've made your first kill",
 			"Now you have a bow and some arrows",
 			"To move on, click on the indicated ladder",
 			// banking stage
 			"This is the Bank of Gielinor",
 			"You can store things here for safekeeping",
+			"Now it's time for a quick look at polls",
 			"Polls are run periodically to let",
 			// account stage
-			"The guide here will tell all about your account",
+			"The guide here will tell you all about your account",
 			"Click on the flashing icon to open your Account Management menu",
 			"Talk to the Account Guide to learn more",
 			"Continue through the next door",
@@ -116,6 +120,7 @@ public class MainScript implements TribotScript {
 			{5, 4},
 			{5, 5},
 			{5, 6},
+			{5, 6},
 			{5, 7},
 			{6, 0},
 			{6, 1},
@@ -124,10 +129,12 @@ public class MainScript implements TribotScript {
 			{6, 4},
 			{6, 5},
 			{6, 6},
+			{6, 6},
 			{6, 7},
-			{6, 10},
+			{6, 9},
 			{6, 11},
 			{7, 0},
+			{7, 2},
 			{7, 2},
 			{7, 3},
 			{8, 0},
@@ -174,6 +181,7 @@ public class MainScript implements TribotScript {
 			Tools.reportResult(args + ":WRONG");
 			return;
 		}
+		Camera.setZoomPercent(20);
 		String notice = Tools.getNotice();
 		if (notice.equals("NONE")) {
 			Tools.reportResult(args + ":SUCCESS");

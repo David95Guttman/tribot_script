@@ -2,6 +2,7 @@ package scripts;
 
 import org.tribot.script.sdk.Waiting;
 import org.tribot.script.sdk.types.WorldTile;
+import org.tribot.script.sdk.Inventory;
 
 public class FishingTask extends Task{
 
@@ -133,6 +134,8 @@ public class FishingTask extends Task{
         Tools.log("make fire");
         for (int i = 0; i < 3; i ++) {
             Waiting.waitNormal(2000, 10);
+            if (!Inventory.contains(ITEM_NAME_LOGS))
+                Tools.clickObject(OBJECT_NAME_TREE);
             if (Tools.walkToTile(POSITION_1[Tools.getRandom(0, 2)]) && Tools.clickWidget(164, 54) && Tools.takeItem(ITEM_NAME_TINDER) && Tools.takeItem(ITEM_NAME_LOGS) && Tools.waitNotice(NOTICE_TEXT_7))
                 return true;
             Tools.error("cannot make fire");

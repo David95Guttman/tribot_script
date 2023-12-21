@@ -1,6 +1,7 @@
 package scripts;
 
 import org.tribot.script.sdk.ChatScreen;
+import org.tribot.script.sdk.Equipment;
 import org.tribot.script.sdk.GameTab;
 import org.tribot.script.sdk.Waiting;
 import org.tribot.script.sdk.types.WorldTile;
@@ -160,6 +161,8 @@ public class CombatTask extends Task{
 
     private boolean equipBow() {
         Tools.log("equip bow");
+        if (Equipment.contains(ITEM_NAME_BOW) && Equipment.contains(ITEM_NAME_ARROW))
+            return true;
         for (int i = 0; i < 3; i ++) {
             Waiting.waitNormal(2000, 10);
             if (Tools.clickWidget(164, 55) && Tools.clickWidget(387, 1)   && Tools.clickWidget(84, 13) && Tools.clickWidget(84, 15) && Tools.equipItem(ITEM_NAME_BOW) && Tools.equipItem(ITEM_NAME_ARROW) && Tools.clickWidget(84, 3, 11))
@@ -171,6 +174,7 @@ public class CombatTask extends Task{
 
     private boolean shootRat() {
         Tools.log("shoot rat");
+
         for (int i = 0; i < 3; i ++) {
             Waiting.waitNormal(2000, 10);
             ChatScreen.clickContinue();
